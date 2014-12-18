@@ -255,7 +255,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 940px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -299,7 +299,7 @@ Full-Width Styles
   display: block;
   position: absolute;
   top:0;
-  right: 300px;
+  right: 0px;
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #fff;
